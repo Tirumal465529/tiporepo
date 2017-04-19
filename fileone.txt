@@ -1,2 +1,4 @@
 this is my first message
 adding it to the remote repo
+working on git reset --soft
+working on git rest --soft1
