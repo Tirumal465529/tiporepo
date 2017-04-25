@@ -4,4 +4,9 @@ function () {
 
 echo $ " hello - world"
 
-}
+} 
+
+adding another function () { 
+
+echo $ "What is your name"
+} 
