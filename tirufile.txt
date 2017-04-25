@@ -1,0 +1,7 @@
+adding the code function
+
+function () { 
+
+echo $ " hello - world"
+
+}
